@@ -1,0 +1,22 @@
+<div class="col-md-6 col-lg-6 col-xl-6 vh-sm-99 vh-md-100 vh-lg-100 bg-img" id="left-top">
+            <div class="container-fluid pt-3 mt-2 ms-3 ms-lg-5 justify-content-center">
+
+                <div class="col-md-6 "></div>
+                <div class=" col-md-6 ps-5 mt-3 m-5 m-lg-0 ms-lg-5 text-center text-nowrap justify-content-center">
+                  <div class="balancer m-lg-0 ms-lg-5">
+                  <H3 style="font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;">Web Developer</H3>
+                  <h2 class="fs-1 fw-bold">ABDULHAKIM <br>MOHAMMED</h2>
+                  <p class="text-secondary">Class of 2023 <br>Welcom to my website <br>Social Media :</p>
+                </div>
+                <!--
+                  <div class="icon-container glowing-icon ">
+                    <a href=""><img src="img/telegram.png" class="icon-img" alt="Icon 2"></a>
+                    <a href=""><img src="img/instagram.png" class="icon-img" alt="Icon 3"></a>
+                    <a href=""><img src="img/linkedin.png" class="icon-img" alt="Icon 4"></a>
+                  </div>
+                  -->
+                </div>
+
+            </div>
+          
+        </div>
